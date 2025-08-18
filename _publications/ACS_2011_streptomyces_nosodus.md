@@ -1,7 +1,7 @@
 ---
 title: "ACS 2011 presentation"
 collection: publications
-permalink: /publication/ACS_2011_streptomyces_nosodus
+permalink: /publications/ACS_2011_streptomyces_nosodus
 paperurl: 'http://guillonyeaghala.github.io/files/2011_ACS_Investigation_of_a_streptomyces_nodosus_glycosyltransferase.pdf'
 ---
 
