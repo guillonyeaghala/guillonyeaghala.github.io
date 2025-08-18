@@ -159,4 +159,4 @@ Division of Epidemiology and Community Health
 * Contributed to weekly FAQs on student questions over the lecture materials
 * Graded lab assignments, exams, and met individually with students
 
-
+[Guillaume Onyeaghala_UTMB CV_2025v2.pdf](https://github.com/user-attachments/files/21835638/Guillaume.Onyeaghala_UTMB.CV_2025v2.pdf)
