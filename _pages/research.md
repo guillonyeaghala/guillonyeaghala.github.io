@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "Presentations"
-permalink: /presentations/
+title: "Research"
+permalink: /research/
 
 ---
 
 <embed src="https://guillonyeaghala.github.io/files/2026_UTMB_Somalogic_CKD_Journal_Club.pdf" type="application/pdf" />
 [2026_UTMB_Somalogic_CKD_Journal_Club](https://github.com/user-attachments/files/25875707/2026_UTMB_Somalogic_CKD_Journal_Club.pdf)
-
 
 <embed src="https://guillonyeaghala.github.io/files/2025_ASN_BGUS_transcripts_and_MPA_EHR_in_KTRs.pdf" type="application/pdf" />
 [2025_ASN_BGUS_transcripts_and_MPA_EHR_in_KTRs](https://github.com/user-attachments/files/25875664/2025_ASN_BGUS_transcripts_and_MPA_EHR_in_KTRs.pdf)
