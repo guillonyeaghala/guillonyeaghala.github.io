@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Guillaume Onyeaghala"
 title_separator          : "-"
 name                     : &name "Guillaume Onyeaghala"
-description              : &description "Epidemiologist | Data Analyst | Microbiome and Chronic Disease Research"
+description              : &description "Epidemiologist | Data Analyst & Bioinformatics Analyst | Chronic Disease Research & Microbiome Research"
 url                      : https://guillonyeaghala.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "guillonyeaghala/guillonyeaghala.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Guillaume Onyeaghala"
   avatar           : "Professional_Profile_Picture.PNG"
-  bio              : "Epidemiologist | Data Analyst | Microbiome and Chronic Disease Research"
+  bio              : "Epidemiologist | Data Analyst & Bioinformatics Analyst | Chronic Disease Research & Microbiome Research"
   location         : "Minneapolis, MN"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=guillaume+onyeaghala"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@owill2010"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
